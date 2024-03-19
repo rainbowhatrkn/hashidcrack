@@ -1,6 +1,6 @@
-# hashidcrack by 
-# :smiling_imp: TRHACKNON :space_invader:
-[![(sc.jpg)(sc.jpg)](sc.jpg)]
+# :smiling_imp: md5hashcrack by :space_invader:
+#  :octocat: TRHACKNON :shipit:
+![(sc.jpg)(sc.jpg)](sc.jpg)
 ## Introduction
 Ce programme Python permet de craquer des hash MD5 en utilisant des techniques de dictionnaire.
 
@@ -14,7 +14,12 @@ Vous pouvez installer `hashidcrack` en clonant ce dépôt :
 git clone https://github.com/rainbowhatrkn/hashidcrack.git
 ```
 
+```bash
+python setup.py install
+```
+
 ## Utilisation
+
 - Lancez le script `md5.py` et suivez les instructions pour craquer un hash MD5.
 - Utilisez l'option  file pour indiquer le fichier texte contenant les hash a cracker , l'option hash unique en indiquant yn seul gash ou hash multiple en indiquant plusieurs hash separes par des virgules .
 
